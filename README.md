@@ -1,5 +1,7 @@
 # quick-highlight
 
+![screenshot of plugin, highlighting the text "qhl" in the source of the plugin](screenshot.png)
+
 This is a kakoune plugin for highlighting all occurences of your selection in the document. The plugin provides the following commands:
 
 * `:qhl-word`: Highlights all occurences of the word under the cursor.
