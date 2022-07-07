@@ -9,7 +9,7 @@ This is a kakoune plugin for highlighting all occurences of your selection in th
 * `:qhl-sel-nob`: Same as the above, but ignores word boundaries.
 * `:unqhl`: Removes the highlight.
 
-The package also registers the face `QhlHightlight`, which defaults to the color `#55055`, a dark purple.
+The package also registers the face `QhlHighlight`, which defaults to the color `#55055`, a dark purple.
 
 Recommended bindings are
 ```
